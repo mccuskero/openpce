@@ -1,0 +1,19 @@
+1996/4/12
+
+threadTest:
+==========
+
+There exist 4 different types of tests currently: basic: contain, pool, derviedPool. 
+
+basic - tests thread class that was created by inheritence from Thread
+contain - tests thread class that contains a Thread class passing in a static entry point for startup.
+pool - tests the pooling capabilities of the class,
+derivedPool - creates a simpled derived thread pool class: good start to understand on how to use.
+
+./threadTest -testType basic -iterations 1 -numThreads 2
+./threadTest -testType contain -iterations 1 -numThreads 2
+./threadTest -testType pooll -iterations 1 -numThreads 2
+./threadTest -testType derivedPool -iterations 1 -numThreads 2 
+
+you may have to run ldconfig if you get the followwing message
+./threadTest: error while loading shared libraries: libpcff-0.1.so.0: cannot open shared object file: No such file or directory

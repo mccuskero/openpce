@@ -1,0 +1,4 @@
+./sproxyd  -vvvvvvv -s pcap -ingestor pcapOffline -processor pcapDefault -filename /Users/owenm/Documents/dev/pcap/archives/honeynet/sotm27
+
+./sproxyd  -vvvvvvv -s pcap -ingestor pcapLive -processor pcapDefault
+

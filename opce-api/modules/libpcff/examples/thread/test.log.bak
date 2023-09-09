@@ -1,0 +1,125 @@
+2007-08-03 20:41:36 Opening log
+2007-08-03 20:41:36 Thread::init
+2007-08-03 20:41:36 Thread::getThreadObject
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41958400 Thread::getThreadObject
+2007-08-03 20:41:36 41958400 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41958400 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41958400 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41959424 Thread::getThreadObject
+2007-08-03 20:41:36 41959424 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41959424 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41959424 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41960448 Thread::getThreadObject
+2007-08-03 20:41:36 41960448 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41960448 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41960448 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41961472 Thread::getThreadObject
+2007-08-03 20:41:36 41961472 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41961472 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41961472 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41962496 Thread::getThreadObject
+2007-08-03 20:41:36 41962496 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41962496 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41962496 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41963520 Thread::getThreadObject
+2007-08-03 20:41:36 41963520 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41963520 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41963520 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41964544 Thread::getThreadObject
+2007-08-03 20:41:36 41964544 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41964544 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41964544 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41965568 Thread::getThreadObject
+2007-08-03 20:41:36 41965568 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41965568 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41965568 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41966592 Thread::getThreadObject
+2007-08-03 20:41:36 41966592 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41966592 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41966592 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 Thread::init
+2007-08-03 20:41:36 2684415368 ServerPoolThread::start
+2007-08-03 20:41:36 2684415368 Thread::start
+2007-08-03 20:41:36 41967616 Thread::getThreadObject
+2007-08-03 20:41:36 41967616 ServerPoolThread::serverEntryPoint
+2007-08-03 20:41:36 41967616 ServerPoolThread::beginWork added to pool
+2007-08-03 20:41:36 41967616 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:36 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:37 2684415368 ServerPool::get waiting for next availabile ServerPoolThread
+2007-08-03 20:41:39 2684415368 ServerPool::get waiting for next availabile ServerPoolThread
+2007-08-03 20:41:41 2684415368 ServerPool::get waiting for next availabile ServerPoolThread
+2007-08-03 20:41:43 2684415368 ServerPool::get waiting for next availabile ServerPoolThread
+2007-08-03 20:41:45 2684415368 ServerPool::get waiting for next availabile ServerPoolThread
+2007-08-03 20:41:46 41967616 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41966592 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41965568 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41964544 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41963520 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41962496 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41961472 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41960448 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41959424 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:46 41958400 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:47 2684415368 ConnectionPoolItem::setBusy condition signal
+2007-08-03 20:41:48 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-08-03 20:41:50 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-08-03 20:41:52 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-08-03 20:41:54 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-08-03 20:41:56 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-08-03 20:41:57 41958400 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:57 41959424 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:57 41960448 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:57 41961472 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:57 41962496 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:58 41963520 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:58 41964544 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:58 41965568 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:58 41966592 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:58 41967616 ConnectionPoolItem::waitForBusy
+2007-08-03 20:41:59 2684415368 ServerPool::waitTillEnd: monitoring threads num(10)
+2007-09-26 23:24:09 Max Log file size met, backing up log

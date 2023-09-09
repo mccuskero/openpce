@@ -1,0 +1,13 @@
+
+20070728
+-testType basic, hung once on a test at this statement.
+So far 40 tests have been done, prior.
+
+0 --END----------------------
+TestThread ending before join 0x500b40
+
+2) Conition-wait bug
+
+3) start up issue
+
+4) use ThreadDirector to get thread ID

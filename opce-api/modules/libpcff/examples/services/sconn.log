@@ -1,0 +1,48 @@
+2007-12-12 00:09:31 Opening log
+2007-12-12 00:09:31 ========-- Acceptor Example --========
+2007-12-12 00:09:31 Initializing Signal Handlers...
+2007-12-12 00:09:31 Initial startup values
+2007-12-12 00:09:31 Server listen socket initialized
+2007-12-12 00:09:31 Thread framework is initialized
+2007-12-12 00:09:33 Opening log
+2007-12-12 00:09:33 ========-- Connector Example --========
+2007-12-12 00:09:33 Initial startup values
+2007-12-12 00:09:33 Server accepted socket connection
+2007-12-12 00:09:33 MessageFactory::create message bufLen: 35
+2007-12-12 00:09:33 Connector::send Message bufLen: 62
+2007-12-12 00:09:33 MessageFactory::create message bufLen: 35
+2007-12-12 00:09:33 Connector::send Message bufLen: 62
+2007-12-12 00:09:33 ServiceHandler::processStream bufSize: 124
+2007-12-12 00:09:33 MessageHeaderSerializer::initialize: serializeSize 62, bufferSize 124
+2007-12-12 00:09:33 Serializeable::serializeFromGetMessageHeader sID: õ, serializeSize 62, objVersion 0, bufLen 124
+2007-12-12 00:09:33 MessageFactory::create  (bufSize: 124, serializedSize 62)
+2007-12-12 00:09:33 MessageFactory::processMessageStream CreateMessageProcessStream (bufSize: 124, serializedSize 62)
+2007-12-12 00:09:33 Serializeable::serializeFrom sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:33 MessageHeaderSerializer::initialize: serializeSize 62, bufferSize 62
+2007-12-12 00:09:33 Serializeable::serializeFromGetMessageHeader sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:33 Serializeable::serializeFrom sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:33 MessageFactory::processMessageStream no pending messages
+2007-12-12 00:09:33 MessageFactory::processMessageStream done. currentBufferSize: 0, _pendingMessageStream: 0, _pendingMessageSerializedSize 0
+2007-12-12 00:09:33 MessageFactory::create  done (_msgQ size: 2)
+2007-12-12 00:09:33 ServiceHandler::processStream: messages available
+2007-12-12 00:09:33 ExampleServiceHandler::recv: hello message
+2007-12-12 00:09:33 ExampleServiceHandler::recv: hello message
+2007-12-12 00:09:34 MessageFactory::create message bufLen: 35
+2007-12-12 00:09:34 Connector::send Message bufLen: 62
+2007-12-12 00:09:34 MessageFactory::create message bufLen: 35
+2007-12-12 00:09:34 Connector::send Message bufLen: 62
+2007-12-12 00:09:34 ServiceHandler::processStream bufSize: 124
+2007-12-12 00:09:34 MessageHeaderSerializer::initialize: serializeSize 62, bufferSize 124
+2007-12-12 00:09:34 Serializeable::serializeFromGetMessageHeader sID: õ, serializeSize 62, objVersion 0, bufLen 124
+2007-12-12 00:09:34 MessageFactory::create  (bufSize: 124, serializedSize 62)
+2007-12-12 00:09:34 MessageFactory::processMessageStream CreateMessageProcessStream (bufSize: 124, serializedSize 62)
+2007-12-12 00:09:34 Serializeable::serializeFrom sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:34 MessageHeaderSerializer::initialize: serializeSize 62, bufferSize 62
+2007-12-12 00:09:34 Serializeable::serializeFromGetMessageHeader sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:34 Serializeable::serializeFrom sID: õ, serializeSize 62, objVersion 0, bufLen 62
+2007-12-12 00:09:34 MessageFactory::processMessageStream no pending messages
+2007-12-12 00:09:34 MessageFactory::processMessageStream done. currentBufferSize: 0, _pendingMessageStream: 0, _pendingMessageSerializedSize 0
+2007-12-12 00:09:34 MessageFactory::create  done (_msgQ size: 2)
+2007-12-12 00:09:34 ServiceHandler::processStream: messages available
+2007-12-12 00:09:34 ExampleServiceHandler::recv: hello message
+2007-12-12 00:09:34 ExampleServiceHandler::recv: hello message

@@ -1,0 +1,23 @@
+* unit Testing
+  work on a scheme to handling unit testing for all of the "cave"
+  create a unitTest dir in openpce, where util subdir is where unit
+  testing for utils will take place.
+  create a signal counter...
+
+* Documentation:
+   man - TBD
+   doc/doxygen - TBD
+
+* Review TODOS in the source code:
+
+* Config
+  assign multiple args to one value (-? and --help to show usage)
+  or --version and -V to print version
+
+* XML based config file!
+  create a XML config file class used with Config class to read in 
+  config attributes from.
+  include some way of versioning the fil
+
+* add in the www framework for creating spiders
+

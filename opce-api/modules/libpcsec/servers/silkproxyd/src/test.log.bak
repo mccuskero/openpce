@@ -1,0 +1,312 @@
+2009-03-11 23:00:20 Opening log
+2009-03-11 23:00:20 Thread framework is initialized
+2009-03-11 23:00:20 SilkDatastore::SilkDatastoreBin::addYear adding /Users/owenm/Documents/dev/silk-data/march/in
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::initializeMonthList number months 1
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::addMonth adding /Users/owenm/Documents/dev/silk-data/march/in/2008
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::initializeDayList number days 1
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::addDay adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList number files 18
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.00
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.01
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.02
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.03
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.04
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.05
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.06
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.07
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.08
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.09
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.10
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.11
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.12
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.13
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.14
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.15
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.16
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/test.log
+2009-03-11 23:00:20 SilkDatastore::SilkDatastoreBin::addYear adding /Users/owenm/Documents/dev/silk-data/march/out
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::initializeMonthList number months 1
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::addMonth adding /Users/owenm/Documents/dev/silk-data/march/out/2008
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::initializeDayList number days 1
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::addDay adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList number files 17
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.00
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.01
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.02
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.03
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.04
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.05
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.06
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.07
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.08
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.09
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.10
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.11
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.12
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.13
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.14
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.15
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::initializeFileList adding /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.16
+2009-03-11 23:00:20 Main sleeping...
+2009-03-11 23:00:20 ProxyService::continualProcess - ingesting...
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 0), (num files: 18), (filename: in-ipfix_20080326.00)
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.00)
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.00)
+2009-03-11 23:00:20 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.00)
+2009-03-11 23:00:20 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:20 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.00
+2009-03-11 23:00:20 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:20 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 1), (num files: 18), (filename: in-ipfix_20080326.01)
+2009-03-11 23:00:20 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.01)
+2009-03-11 23:00:20 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.01)
+2009-03-11 23:00:20 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.01)
+2009-03-11 23:00:20 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:20 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.01
+2009-03-11 23:00:21 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:21 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 2), (num files: 18), (filename: in-ipfix_20080326.02)
+2009-03-11 23:00:21 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.02)
+2009-03-11 23:00:21 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.02)
+2009-03-11 23:00:21 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.02)
+2009-03-11 23:00:21 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:21 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.02
+2009-03-11 23:00:21 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:21 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 3), (num files: 18), (filename: in-ipfix_20080326.03)
+2009-03-11 23:00:21 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.03)
+2009-03-11 23:00:21 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.03)
+2009-03-11 23:00:21 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.03)
+2009-03-11 23:00:21 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:21 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.03
+2009-03-11 23:00:22 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:22 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 4), (num files: 18), (filename: in-ipfix_20080326.04)
+2009-03-11 23:00:22 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.04)
+2009-03-11 23:00:22 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.04)
+2009-03-11 23:00:22 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.04)
+2009-03-11 23:00:22 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:22 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.04
+2009-03-11 23:00:22 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:22 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 5), (num files: 18), (filename: in-ipfix_20080326.05)
+2009-03-11 23:00:22 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.05)
+2009-03-11 23:00:22 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.05)
+2009-03-11 23:00:22 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.05)
+2009-03-11 23:00:22 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:22 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.05
+2009-03-11 23:00:22 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:22 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 6), (num files: 18), (filename: in-ipfix_20080326.06)
+2009-03-11 23:00:22 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.06)
+2009-03-11 23:00:22 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.06)
+2009-03-11 23:00:22 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.06)
+2009-03-11 23:00:22 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:22 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.06
+2009-03-11 23:00:23 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:23 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 7), (num files: 18), (filename: in-ipfix_20080326.07)
+2009-03-11 23:00:23 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.07)
+2009-03-11 23:00:23 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.07)
+2009-03-11 23:00:23 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.07)
+2009-03-11 23:00:23 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:23 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.07
+2009-03-11 23:00:23 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:23 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 8), (num files: 18), (filename: in-ipfix_20080326.08)
+2009-03-11 23:00:23 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.08)
+2009-03-11 23:00:23 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.08)
+2009-03-11 23:00:23 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.08)
+2009-03-11 23:00:23 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:23 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.08
+2009-03-11 23:00:24 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:24 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 9), (num files: 18), (filename: in-ipfix_20080326.09)
+2009-03-11 23:00:24 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.09)
+2009-03-11 23:00:24 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.09)
+2009-03-11 23:00:24 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.09)
+2009-03-11 23:00:24 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:24 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.09
+2009-03-11 23:00:24 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:24 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 10), (num files: 18), (filename: in-ipfix_20080326.10)
+2009-03-11 23:00:24 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.10)
+2009-03-11 23:00:24 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.10)
+2009-03-11 23:00:24 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.10)
+2009-03-11 23:00:24 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:24 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.10
+2009-03-11 23:00:25 Main monitor service...
+2009-03-11 23:00:25 Main sleeping...
+2009-03-11 23:00:25 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:25 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 11), (num files: 18), (filename: in-ipfix_20080326.11)
+2009-03-11 23:00:25 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.11)
+2009-03-11 23:00:25 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.11)
+2009-03-11 23:00:25 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.11)
+2009-03-11 23:00:25 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:25 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.11
+2009-03-11 23:00:25 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:25 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 12), (num files: 18), (filename: in-ipfix_20080326.12)
+2009-03-11 23:00:25 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.12)
+2009-03-11 23:00:25 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.12)
+2009-03-11 23:00:25 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.12)
+2009-03-11 23:00:25 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:25 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.12
+2009-03-11 23:00:26 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:26 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 13), (num files: 18), (filename: in-ipfix_20080326.13)
+2009-03-11 23:00:26 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.13)
+2009-03-11 23:00:26 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.13)
+2009-03-11 23:00:26 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.13)
+2009-03-11 23:00:26 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:26 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.13
+2009-03-11 23:00:27 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:27 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 14), (num files: 18), (filename: in-ipfix_20080326.14)
+2009-03-11 23:00:27 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.14)
+2009-03-11 23:00:27 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.14)
+2009-03-11 23:00:27 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.14)
+2009-03-11 23:00:27 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:27 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.14
+2009-03-11 23:00:28 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:28 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 15), (num files: 18), (filename: in-ipfix_20080326.15)
+2009-03-11 23:00:28 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.15)
+2009-03-11 23:00:28 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.15)
+2009-03-11 23:00:28 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.15)
+2009-03-11 23:00:28 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:28 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.15
+2009-03-11 23:00:28 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:28 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 16), (num files: 18), (filename: in-ipfix_20080326.16)
+2009-03-11 23:00:28 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/in-ipfix_20080326.16)
+2009-03-11 23:00:28 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/in-ipfix_20080326.16)
+2009-03-11 23:00:28 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/in-ipfix_20080326.16)
+2009-03-11 23:00:28 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:28 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/in-ipfix_20080326.16
+2009-03-11 23:00:28 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:28 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 17), (num files: 18), (filename: test.log)
+2009-03-11 23:00:28 SilkDatastore::SilkMonthDir::getNextFilePathname (last file in day) (currDayIdx: 0), (num days: 1), (day pathname: 26/test.log)
+2009-03-11 23:00:28 SilkDatastore::SilkYearDir::getNextFilePathname (last day in month) (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/test.log)
+2009-03-11 23:00:28 SilkDatastore::SilkDatastoreBin::getNextFilePathname (last month in year) (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/test.log)
+2009-03-11 23:00:28 SilkDatastore::getNextFilePathname (_currBinIndex: 0), (num bins: 2)
+2009-03-11 23:00:28 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/test.log
+2009-03-11 23:00:28 ERR 2 2 Error opening file.:/Users/owenm/Documents/dev/silk-data/march/in/2008/03/26/test.log
+2009-03-11 23:00:28 SilkDatastoreIngestor::continuousIngest - Silk file error.
+2009-03-11 23:00:28 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 0), (num files: 17), (filename: out-ipfix_20080326.00)
+2009-03-11 23:00:28 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.00)
+2009-03-11 23:00:28 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.00)
+2009-03-11 23:00:28 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.00)
+2009-03-11 23:00:28 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:28 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.00
+2009-03-11 23:00:29 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:29 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 1), (num files: 17), (filename: out-ipfix_20080326.01)
+2009-03-11 23:00:29 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.01)
+2009-03-11 23:00:29 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.01)
+2009-03-11 23:00:29 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.01)
+2009-03-11 23:00:29 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:29 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.01
+2009-03-11 23:00:30 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:30 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 2), (num files: 17), (filename: out-ipfix_20080326.02)
+2009-03-11 23:00:30 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.02)
+2009-03-11 23:00:30 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.02)
+2009-03-11 23:00:30 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.02)
+2009-03-11 23:00:30 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:30 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.02
+2009-03-11 23:00:30 Main monitor service...
+2009-03-11 23:00:30 Main sleeping...
+2009-03-11 23:00:30 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:30 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 3), (num files: 17), (filename: out-ipfix_20080326.03)
+2009-03-11 23:00:30 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.03)
+2009-03-11 23:00:30 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.03)
+2009-03-11 23:00:30 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.03)
+2009-03-11 23:00:30 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:30 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.03
+2009-03-11 23:00:30 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:30 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 4), (num files: 17), (filename: out-ipfix_20080326.04)
+2009-03-11 23:00:30 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.04)
+2009-03-11 23:00:30 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.04)
+2009-03-11 23:00:30 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.04)
+2009-03-11 23:00:30 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:30 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.04
+2009-03-11 23:00:31 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:31 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 5), (num files: 17), (filename: out-ipfix_20080326.05)
+2009-03-11 23:00:31 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.05)
+2009-03-11 23:00:31 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.05)
+2009-03-11 23:00:31 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.05)
+2009-03-11 23:00:31 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:31 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.05
+2009-03-11 23:00:31 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:31 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 6), (num files: 17), (filename: out-ipfix_20080326.06)
+2009-03-11 23:00:31 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.06)
+2009-03-11 23:00:31 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.06)
+2009-03-11 23:00:31 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.06)
+2009-03-11 23:00:31 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:31 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.06
+2009-03-11 23:00:32 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:32 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 7), (num files: 17), (filename: out-ipfix_20080326.07)
+2009-03-11 23:00:32 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.07)
+2009-03-11 23:00:32 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.07)
+2009-03-11 23:00:32 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.07)
+2009-03-11 23:00:32 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:32 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.07
+2009-03-11 23:00:32 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:32 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 8), (num files: 17), (filename: out-ipfix_20080326.08)
+2009-03-11 23:00:32 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.08)
+2009-03-11 23:00:32 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.08)
+2009-03-11 23:00:32 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.08)
+2009-03-11 23:00:32 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:32 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.08
+2009-03-11 23:00:33 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:33 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 9), (num files: 17), (filename: out-ipfix_20080326.09)
+2009-03-11 23:00:33 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.09)
+2009-03-11 23:00:33 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.09)
+2009-03-11 23:00:33 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.09)
+2009-03-11 23:00:33 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:33 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.09
+2009-03-11 23:00:33 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:33 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 10), (num files: 17), (filename: out-ipfix_20080326.10)
+2009-03-11 23:00:33 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.10)
+2009-03-11 23:00:33 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.10)
+2009-03-11 23:00:33 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.10)
+2009-03-11 23:00:33 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:33 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.10
+2009-03-11 23:00:34 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:34 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 11), (num files: 17), (filename: out-ipfix_20080326.11)
+2009-03-11 23:00:34 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.11)
+2009-03-11 23:00:34 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.11)
+2009-03-11 23:00:34 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.11)
+2009-03-11 23:00:34 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:34 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.11
+2009-03-11 23:00:35 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:35 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 12), (num files: 17), (filename: out-ipfix_20080326.12)
+2009-03-11 23:00:35 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.12)
+2009-03-11 23:00:35 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.12)
+2009-03-11 23:00:35 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.12)
+2009-03-11 23:00:35 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:35 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.12
+2009-03-11 23:00:35 Main monitor service...
+2009-03-11 23:00:35 Main sleeping...
+2009-03-11 23:00:35 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:35 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 13), (num files: 17), (filename: out-ipfix_20080326.13)
+2009-03-11 23:00:35 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.13)
+2009-03-11 23:00:35 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.13)
+2009-03-11 23:00:35 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.13)
+2009-03-11 23:00:35 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:35 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.13
+2009-03-11 23:00:36 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:36 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 14), (num files: 17), (filename: out-ipfix_20080326.14)
+2009-03-11 23:00:36 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.14)
+2009-03-11 23:00:36 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.14)
+2009-03-11 23:00:36 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.14)
+2009-03-11 23:00:36 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:36 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.14
+2009-03-11 23:00:37 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:37 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 15), (num files: 17), (filename: out-ipfix_20080326.15)
+2009-03-11 23:00:37 SilkDatastore::SilkMonthDir::getNextFilePathname (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.15)
+2009-03-11 23:00:37 SilkDatastore::SilkYearDir::getNextFilePathname (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.15)
+2009-03-11 23:00:37 SilkDatastore::SilkDatastoreBin::getNextFilePathname (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.15)
+2009-03-11 23:00:37 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:37 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.15
+2009-03-11 23:00:37 SilkDatastoreIngestor::continuousIngest - EOF received during ingest.
+2009-03-11 23:00:37 SilkDatastore::SilkDayDir::getNextFilePathname (_currFileIndex: 16), (num files: 17), (filename: out-ipfix_20080326.16)
+2009-03-11 23:00:37 SilkDatastore::SilkMonthDir::getNextFilePathname (last file in day) (currDayIdx: 0), (num days: 1), (day pathname: 26/out-ipfix_20080326.16)
+2009-03-11 23:00:37 SilkDatastore::SilkYearDir::getNextFilePathname (last day in month) (currMonthIdx: 0), (num months: 1), (month pathname: 03/26/out-ipfix_20080326.16)
+2009-03-11 23:00:37 SilkDatastore::SilkDatastoreBin::getNextFilePathname (last month in year) (currYearIdx: 0), (num years: 1), (year pathname: 2008/03/26/out-ipfix_20080326.16)
+2009-03-11 23:00:37 SilkDatastore::getNextFilePathname (_currBinIndex: 1), (num bins: 2)
+2009-03-11 23:00:37 SilkDatastore::getNextFile data filename: /Users/owenm/Documents/dev/silk-data/march/out/2008/03/26/out-ipfix_20080326.16
+2009-03-11 23:00:37 SilkDatastoreIngestor::continuousIngest - exiting...
+2009-03-11 23:00:40 Main monitor service...
+2009-03-11 23:00:40 Main sleeping...
+2009-03-11 23:00:45 Main monitor service...
+2009-03-11 23:00:45 Main sleeping...
+2009-03-11 23:00:50 Main monitor service...
+2009-03-11 23:00:50 Main sleeping...
+2009-03-11 23:00:52 Main monitor service...
+2009-03-11 23:00:52 SIGINT recieved, exiting...
+2009-03-11 23:00:59 Max Log file size met, backing up log

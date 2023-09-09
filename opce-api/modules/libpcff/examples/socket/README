@@ -1,0 +1,22 @@
+How to Build
+============
+
+1) First create the libpcff libraries and install them
+2) run make
+3) test
+   socketTest -help prints out startup info
+   
+   in one window start up a UDP server (use defaults)
+   socketTest
+
+   in another window start up the UDP echo client
+   socketTest -testType client -testStr helloWorld
+
+Unix Socket Tests
+---------------------
+
+./sockTest -testType UnixDGRAMserver
+./sockTest -testType UnixDGRAMclient
+
+The file descriptors are written by default in the /tmp dir
+sockClientTest, and sockServerTest

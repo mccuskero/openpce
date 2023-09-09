@@ -1,0 +1,36 @@
+2007-10-12 12:04:45 Opening log
+2007-10-12 12:06:07 Opening log
+2007-10-12 12:06:22 Opening log
+2007-10-12 12:11:42 Opening log
+2007-10-12 12:11:57 Opening log
+2007-10-12 12:11:58 ERR 2 2 sendto: unknown error
+
+2007-10-12 12:18:09 Opening log
+2007-10-12 12:18:09 ERR 2 2 bind: address already in use
+
+2007-10-12 12:18:18 Opening log
+2007-10-12 12:18:21 Opening log
+2007-10-12 12:18:22 ERR 2 2 sendto: unknown error
+
+2007-10-12 12:20:08 Opening log
+2007-10-12 12:20:43 Opening log
+2007-10-12 12:22:15 Opening log
+2007-10-12 12:23:07 Opening log
+2007-10-12 12:28:08 Opening log
+2007-10-12 12:28:14 Opening log
+2007-10-12 12:38:29 Opening log
+2007-10-12 12:38:32 Opening log
+2007-10-12 12:38:33 ERR 2 2 sendto: unknown error
+
+2007-10-12 12:40:00 Opening log
+2007-10-12 12:40:04 Opening log
+2007-10-12 12:42:36 Opening log
+2007-10-12 12:42:40 Opening log
+2007-10-12 12:48:30 Opening log
+2007-10-12 12:48:33 Opening log
+2007-10-12 12:52:30 Opening log
+2007-10-12 12:52:34 Opening log
+2007-10-12 12:52:41 Opening log
+2007-10-12 12:52:41 ERR 2 2 bind: address already in use
+
+2007-10-17 21:15:51 Max Log file size met, backing up log

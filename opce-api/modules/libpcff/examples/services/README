@@ -1,0 +1,5 @@
+Services Example
+===============
+
+make exes
+Creates both the cntr and the acptr test exes.

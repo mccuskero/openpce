@@ -1,0 +1,6 @@
+create test signal manager
+ in the exampleDeamon 
+ focus on 
+      initialization of signals in one init funciton
+      processSignal member that checks flags
+  

@@ -1,0 +1,16 @@
+move ServerThread to thread lib
+
+Implement ConnectionPool classes, and ConnectionPoolUnit...
+make virtual base classes...
+
+7/21
+fix up ProxyServerPool
+fix up threading
+use pcave Socket
+create TLS based sockets called secure sockets
+IPv6
+
+10/15
+proxy/server and Unix Domain socket test
+extend ProxyServerThread to manage UnixDomain socket on the receive side....
+pass in configuration item to configure for UnixDomainSocket or Socket (Maybe include Datagram socket)

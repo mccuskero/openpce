@@ -1,0 +1,2 @@
+Need to create build depency on Snort, when the snort proxy is created/needed.
+Need to REMOVE this dir, and also, get rid of snortstruct.h in include dir.

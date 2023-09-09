@@ -1,0 +1,10 @@
+1998-07-09
+==========
+
+startup arguments
+-L, --listen
+--nodaemon  		launch disabling daemonizing behavior
+
+check out other progs, and be consistent
+
+need to echo data to screen

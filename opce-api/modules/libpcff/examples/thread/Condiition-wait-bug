@@ -1,0 +1,50 @@
+enigma:~/dev/pcff-0.1-alpha03/thread/examples owenm$ ./threadTest -testType basic -iterations 1 -numThreads 2
+Thread Test Suite - v0.0.1  01-01-99
+
+starting test...
+2007-08-01 13:35:00 Opening log
+Thread test starting...
+Thread::Thread Default
+Thread framework not initialized
+Condition::init 0x500b50
+Thread::getThreadObject: 0x500a80
+
+0 --START----------------------
+Thread::Thread Default
+Mutex::lock 0x500a40 
+Mutex::unlock 0x500a40 
+Condition::init 0x500c00
+Thread::Thread Default
+Mutex::lock 0x500a40 
+Mutex::unlock 0x500a40 
+Condition::init 0x500cb0
+parent trying lock on thread
+Mutex::lock 0x500bc0 
+Thread::signal 
+Condition::signal 0x500c00 mutex: 0x500bc0
+Mutex::unlock 0x500bc0 
+parent signaled thread
+parent trying lock on thread
+Mutex::lock 0x500c70 
+Thread::signal 
+Condition::signal 0x500cb0 mutex: 0x500c70
+Mutex::unlock 0x500c70 
+parent signaled thread
+
+0 --END----------------------
+TestThread ending before join 0x500b80
+Thread::getThreadObject: 0x500b80
+mainProc
+x y 0x500b80
+Waiting for signal
+Thread::wait
+Mutex::lock 0x500bc0 
+Condition::wait 0x500c00 mutex: 0x500bc0
+Thread::getThreadObject: 0x500c30
+mainProc
+x y 0x500c30
+Waiting for signal
+Thread::wait
+Mutex::lock 0x500c70 
+Condition::wait 0x500cb0 mutex: 0x500c70
+

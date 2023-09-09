@@ -1,0 +1,86 @@
+2009-01-22 17:06:45 Opening log
+2009-01-22 17:06:45 Starting filesystem framework test
+2009-01-22 17:06:45 /tmp
+2009-01-22 17:06:45 Ending filesystem framework test
+2009-01-22 17:06:46 Starting CIDRAddress test
+2009-01-22 17:06:46 IP Address 192.168.10.10 is in subnet 192.168.10.255/24
+2009-01-22 17:06:46 IP Address 192.169.10.10 is NOT in subnet 192.168.10.255/24
+2009-01-22 17:06:46 Ending CIDRAddress test
+2009-01-22 17:06:46 Starting random INETAddress test
+2009-01-22 17:06:46 Starting Serialization Test - SerializationTest
+2009-01-22 17:06:46 test info:
+2009-01-22 17:06:46 
+_testBool 		 : 1
+_testChar		 : õ
+_testUChar		 : ö
+_testInt		 : 1
+_testUInt		 : 2
+_testLong		 : 3
+_testULong		 : 4
+_testFloat		 : 3.14
+_testLongLong	 : 5
+_testULongLong	 : 6
+_testDouble	 : 6.022
+_testStr		 : Hello String
+_testCharBuf	 : Hello char buf
+_testCharBuf2	 : aaaaa
+_testCharBuf3	 : bbbbb
+_testDataBufLen : 15
+_testDataBuf 	 : Hello data buf
+
+2009-01-22 17:06:46 serializedSize: (133)
+2009-01-22 17:06:46 serializedSize: (133)returned serializedSize: (133)
+2009-01-22 17:06:46 test2 info:
+2009-01-22 17:06:46 
+_testBool 		 : 1
+_testChar		 : õ
+_testUChar		 : ö
+_testInt		 : 1
+_testUInt		 : 2
+_testLong		 : 3
+_testULong		 : 4
+_testFloat		 : 3.14
+_testLongLong	 : 5
+_testULongLong	 : 6
+_testDouble	 : 6.022
+_testStr		 : Hello String
+_testCharBuf	 : Hello char buf
+_testCharBuf2	 : aaaaa
+_testCharBuf3	 : bbbbb
+_testDataBufLen : 15
+_testDataBuf 	 : Hello data buf
+
+2009-01-22 17:06:46 Ending Serialization Test
+2009-01-22 17:06:46 Starting Serialization Test - SerializationTest INETAddress
+2009-01-22 17:06:46 test info:
+2009-01-22 17:06:46  - Hostname: 39.37.137.87
+ - Family  : IPv4
+ - Address : 39.37.137.87
+
+2009-01-22 17:06:46 serializedSize: (351)
+2009-01-22 17:06:46 serializedSize: (351)returned serializedSize: (351)
+2009-01-22 17:06:46 test2 info:
+2009-01-22 17:06:46  - Hostname: 39.37.137.87
+ - Family  : IPv4
+ - Address : 39.37.137.87
+
+2009-01-22 17:06:46 Ending Serialization Test
+2009-01-22 17:06:46 Starting Serization Test - Basic Message
+2009-01-22 17:06:46 msg info:
+2009-01-22 17:06:46 
+msgType:  0
+msgSize:  1
+dataType: 2
+dataSize: 3
+
+2009-01-22 17:06:46 serializedSize: (25)
+2009-01-22 17:06:46 serializedSize: (25)serializedSize: (25)
+2009-01-22 17:06:46 msg2 info:
+2009-01-22 17:06:46 
+msgType:  0
+msgSize:  1
+dataType: 2
+dataSize: 3
+
+2009-01-22 17:06:46 Ending Serization Test
+2009-01-22 17:06:46 ERR 2 2 Test1 Exception:This is a test

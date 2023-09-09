@@ -1,0 +1,2 @@
+./silkproxyd --data-store /Users/owenm/Documents/dev/pcsec/silk-data/in/2008/03/26  --data-file in-ipfix_20080326.0
+

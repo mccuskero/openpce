@@ -1,0 +1,45 @@
+
+
+==================== Basic
+
+ConnectionDirector connDirector;
+
+connDirector.initialize("tessera");
+Transaction trans = connDirector.getTransaction();
+trans.begin();
+trans.execQuery("select * from table");
+trans.execUpdate("Insert this into table")
+trans.commit();
+
+
+
+
+======================================================= Use a Connection, for complex interactions with database
+
+
+ConnectionDirector connDirector;
+
+connDirector.initialize("tessera");
+Transaction trans = connDirector.getTransaction();
+trans.begin();
+
+Connection conn = trans.getConnection();
+
+conn.execQuery("select * from table");
+conn.execUpdate("Insert this into table")
+
+trans.commit();
+
+
+
+====================== Cursor based Query
+
+ConnectionDirector connDirector;
+
+connDirector.initialize("tessera");
+Transaction trans = connDirector.getTransaction();
+trans.begin();
+ResultSet rs = trans.execQuery("select * from table", UseCursor);   // what class does UseCursor belong to, ResultSet??
+trans.execUpdate("Insert this into table")
+trans.commit();
+

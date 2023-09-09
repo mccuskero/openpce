@@ -1,0 +1,4 @@
+sproxyd
+=================================
+The daemon will read in a configuration file and start up the appropriate proxy
+daemons.

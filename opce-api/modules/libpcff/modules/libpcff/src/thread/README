@@ -1,0 +1,101 @@
+
+
+               Thread++ library 
+               -----------------
+
+Design by Owen McCusker
+-----------------------
+
+Overview
+--------
+
+
+
+Programming Notes
+-----------------
+Major releases:
+1) basic functionality
+	- need to create a Mutex class.
+	- create basic thread behavior (.cc)
+	- create a unit test
+	- create some timer class/es
+	
+2) synchronization 
+3) producer/consumer functionality
+4) signal support - separate lib?
+
+  // TODO: may need some high level
+  // management thread behavior
+  // investigate QpInit
+  //
+
+-----------------------------------------------------------------------
+Basic Functionality
+
+ThreadObjBase.h
+	manages the "names" of various objects within the 
+	framework.
+
+Thread.h
+	manages all basic thread behavior
+
+ThreadManager.h
+	maybe manage the threads created within a proc.
+	keep a list of all threads.
+	not needed in beginning.
+
+Mutex.h
+
+
+Timer.h	
+	used to perform timing of threads related test
+	not needed in beginning.
+------------------------------------
+ISSUES
+
+on delete
+
+must cancel and join the thread before exiting.
+look at ObjectThread example, it seems to be the simplist.
+
+threads can be create as detached and joined. Joined is 
+by default.
+
+kernel threads, user threads,
+
+The threading model used by the pthread library is kernel dependent.
+Some implementatoins just use user threads, where the kernel has
+know idea that threads are running within a process. Other implementations
+use kernel threads where there exists a one to one mapping of a thread 
+to a kernel thread. 
+
+the best of both worlds is a allowed where some threads are known by the kernel
+and some are not.
+
+----------------------------------------------
+delete issues - solution
+
+The following print result occurs
+with TestThread Inheriting from Thread 
+
+TestThread ending
+x y 
+Thread ending
+
+Thread *t = new TestThread
+t->start();
+delete t;
+
+The issues is that start returned without the thread 
+being created.
+
+start should wait until the thread has created,
+or return/ throw an exception.
+maybe a mutex can be used.
+----------------------------------
+
+
+
+
+
+

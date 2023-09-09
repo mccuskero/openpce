@@ -1,0 +1,36 @@
+Thread Test Suite - v0.0.1  01-01-99
+
+starting test...
+2007-08-02 23:30:34 Max Log file size met, backing up log
+2007-08-02 23:30:34 Opening log
+Thread test starting...
+Thread framework not initialized
+2007-08-02 23:30:34 Thread::init
+2007-08-02 23:30:34 Thread::getThreadObject
+
+0 --START----------------------
+2007-08-02 23:30:34 0xa000ed88 Thread::init
+2007-08-02 23:30:34 0xa000ed88 Thread::start
+2007-08-02 23:30:34 0xa000ed88 Thread::init
+2007-08-02 23:30:34 0xa000ed88 Thread::start
+2007-08-02 23:30:34 0xa000ed88 parent trying lock on thread
+2007-08-02 23:30:34 0xa000ed88 Thread::signal
+2007-08-02 23:30:34 0xa000ed88 parent signaled thread
+2007-08-02 23:30:34 0xa000ed88 parent trying lock on thread
+2007-08-02 23:30:34 0x2803c00 Thread::getThreadObject2007-08-02 23:30:34 0x2804000 Thread::getThreadObject
+
+2007-08-02 23:30:34 0xa000ed88 Thread::signal
+mainProcmainProc
+
+2007-08-02 23:30:34 0xa000ed88 parent signaled thread
+x x 
+y y 00x600c300x600cf0 --END----------------------
+
+
+2007-08-02 23:30:34 0xa000ed88 ~Thread: Thread waiting to endWaiting for signalWaiting for signal
+
+
+2007-08-02 23:30:34 0x2803c00 Thread::wait mutex lock2007-08-02 23:30:34 0x2804000 Thread::wait mutex lock
+
+
+Here the signaled was fired, but, the thread were not waiting yet??

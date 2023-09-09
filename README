@@ -1,0 +1,54 @@
+      pcff 
+      plato's cave foundation frameworks (circa 1994)
+      -----------------------------------
+
+This is the libpcff project from platos-cave.org. This frameworks
+will be used through the projects from the cave. 
+This library contains the following:
+libpcff.a
+   Config
+   Log
+   Date
+   socket framework surrounding the socket API
+   a threading framework.
+
+These libraries contains basic frameworks that facilitates the development
+of the following:
+
+open-pce - open pervasive computing environment .
+Tessera  - a distributed multi-agent system
+
+and other cave projects.
+
+See INSTALL on how to install the project
+
+CHANGES
+
+1997-02-03
+libpcff-0.0.1alpha01
+* initial release
+* added simple make system
+* added simple RawSocket (misnomer...)
+
+libpcff-0.0.1alpha02
+* added file management to Config class
+* introduced some basic threading
+* redid Config framework, added in file config capabilities
+* introduced signal handling capabilies
+
+libpcff-0.0.1alpha03
+* redid socket framwork
+	* added initial IPv6 stubs into framework
+	* started to add in multiple exception handling 
+* added thread framework
+* put all frameworks into one library
+
+libpcff-0.2alpha01
+* added Added UnixSocket and UnixDomainSocket classes, 
+* updating the socket framework. 
+* Modified examples to utilize new classes.
+
+libpcff-0.2alpha02
+* Added serialization framework 
+	* used to send objects over streams e.g. sockets, files
+* updated examples/basic

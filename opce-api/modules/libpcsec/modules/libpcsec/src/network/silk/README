@@ -1,0 +1,88 @@
+SiLK
+=========
+These collection of file represent a capability through a SiLK
+datastore can be ingested, creating SilkRecords to be based
+over a socket to a listening application.
+
+It is expected that we will first develop the SilkFileIngestor,
+then develop the SilkDatastoreIngestor.
+
+
+SilkDirector
+----------------------
+Is used to initalize the SiLK toolset, and tear it down before
+closing the app down.
+
+SilkFileIngestor
+----------------------
+The file ingestor will ingest a single file at a time.
+
+SilkDatastoreIngestor
+----------------------
+These type of ingestor will have a number of different modes of operation.
+1) batch digest
+2) ingest latest 
+3) ingest up to time
+4) purging
+
+In, InWeb, ... represent data bins. within the data store.
+
+general info
+	using inner classes to manage bin meta-data
+		SilkDatastoreBin
+			use map of this, map them in the subscription
+
+
+initialize
+	initialize the mode
+	activates each of the datastore dirs if found
+		SilkDatastore::In
+			active/non-active
+
+	subscribe(SilkDatastore::In);
+	subscribe(SilkDatastore::InWeb);
+	subscribe(SilkDatastore::InNull);
+	subscribe(SilkDatastore::Int2Int);
+
+getNextFile
+	- sleep for an hour, then parse
+	- work base on hours, and nameing convention
+	  I<flowType>-I<sensorName>_YYYYMMDD.HH
+	  HH 00-23
+	- getNextFile()
+	- +1 mod 6
+		get the next bin
+
+	- getNextFile(SilkDatastore::In)
+	- getNextFile(SilkDatastore::InWeb)
+	- getNextFile(SilkDatastore::InNull)
+	- getNextFile(SilkDatastore::Int2Int)
+
+stats
+Overall
+ 	files processed
+
+SilkDatastore::In
+			active
+			last file read
+			last hour read
+			time when last read was done
+			time of last read
+
+Run modes
+	SilkDatastore::BatchMode
+		getNextFile returns next file from datastore
+			moving from 1st bin to last bin. e.g. In to Out...
+
+	SilkDatastore::CurrentTime
+		getNextFile returns next file from datastore
+			moves from first bin (In, to next e.g. InWeb, returning the next file)
+
+
+directory layout
+  $SILK_DATA_ROOTDIR/in/{$YEAR}/{$MONTH}/{$DAY}/*
+  $SILK_DATA_ROOTDIR/inweb/{$YEAR}/{$MONTH}/{$DAY}/*
+  $SILK_DATA_ROOTDIR/innull/{$YEAR}/{$MONTH}/{$DAY}/*
+  $SILK_DATA_ROOTDIR/out/{$YEAR}/{$MONTH}/{$DAY}/*
+  $SILK_DATA_ROOTDIR/outweb/{$YEAR}/{$MONTH}/{$DAY}/*
+  $SILK_DATA_ROOTDIR/outnull/{$YEAR}/{$MONTH}/{$DAY}/*
